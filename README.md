@@ -2,5 +2,5 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Python-backend student from Russia 🇷🇺</h3>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark)
+<h3 align="center">Связаться со мной:</h3>
 
