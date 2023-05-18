@@ -3,5 +3,5 @@
 <h3 align="center">Python-backend developer from Russia 🇷🇺</h3>
 
 <h3 align="center">Связаться со мной:</h3>
-Telegram: https://t.me/boikodw
+<h3 align="center">Telegram: https://t.me/boikodw</h3>
 
